@@ -1,0 +1,35 @@
+body{
+    display: flex;
+    flex-direction: column;
+    margin: 0px;
+}
+
+.divs1{
+    width: 100%;
+    border: 1px solid black;
+}
+
+.nav{
+    height: 10vh;
+}
+
+.body{
+    height: 70vh;
+    display: flex;
+}
+
+.foot{
+    height: 20vh;   
+}
+
+.menu{
+    height: 70vh;
+    border: 1px solid black;
+    width: 20%;
+}
+
+.content{
+    height: 70vh;
+    border: 1px solid black;
+    width: 80%;
+}
